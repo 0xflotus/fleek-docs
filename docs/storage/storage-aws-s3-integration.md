@@ -113,7 +113,7 @@ s3.listObjectsV2(params, function (err, data) {
 
 An example of a typical response is provided below.
 
-```
+``` 
  { IsTruncated: false,
   Contents:
    [ { Key: 'hello-world.gif',
